@@ -1,0 +1,7 @@
+*.hdf5
+weights/
+dataset_ff/
+dataset_bach/
+Classical-Piano-Composer-master/
+.ipynb_checkpoints/
+notes/
